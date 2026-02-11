@@ -1,17 +1,52 @@
-Hello There, ami Aritra Maji
-About Me
-Currently exploring Quantum Computing, Optimisation algorithm and Machine Learning
-Experienced with Java for DSA, Python for QC,  MySQL for database and React for Frontend
-Goal: To become a quantum researcher in Quantum based industrial firm
-Languages: Java, Python, C++, JavaScript, C, MySQL
-Frontend: HTML, CSS, JavaScript, React
-Database: MySQL, MongoDB
-Interests: Table Tennis, Lawn Tennis, Painting
-Learning & Future Goals
-Strengthen foundations in Quantum Computing, Data Structures and Algorithms, and Machine Learning
-Build Intermediate level Quantum Projects
-Explore Gaming Technolgies and Quantum Gaming Technologies
-Contribute to open-source projects
-Connect with Me
-LinkedIn: Aritra Maji
-Email: maji.aritra8@gmail.com
+# 👋 Hello, I'm Aritra Maji
+
+## 🚀 About Me
+Currently exploring **Quantum Computing**, **Optimization Algorithms**, and **Machine Learning**.  
+Experienced with:
+- **Java** for Data Structures & Algorithms (DSA)  
+- **Python** for Quantum Computing  
+- **MySQL** for Database Management  
+- **React** for Frontend Development  
+
+🎯 **Goal:** To become a quantum researcher in a quantum-based industrial firm.
+
+---
+
+## 💻 Skills
+
+### Languages
+- Java  
+- Python  
+- C++  
+- JavaScript  
+- C  
+- MySQL  
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+### Database
+- MySQL  
+- MongoDB  
+
+---
+
+## 🎨 Interests
+- Table Tennis  
+- Lawn Tennis  
+- Painting  
+
+---
+
+## 📈 Learning & Future Goals
+- Strengthen foundations in **Quantum Computing**, **DSA**, and **Machine Learning**  
+- Build intermediate-level **Quantum Projects**  
+- Explore **Gaming Technologies** and **Quantum Gaming Technologies**  
+- Contribute to **Open-Source Projects**  
+
+## 📬 Connect with Me
+- **LinkedIn:** [Aritra Maji](https://www.linkedin.com/in/aritra-maji)  
+- **Email:** maji.aritra8@gmail.com  
